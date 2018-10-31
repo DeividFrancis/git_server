@@ -1,2 +1,2 @@
 #!/bin/sh
-GIT_WORK_TREE=${dir} git checkout -f
+GIT_WORK_TREE=/var/www/html git checkout -f
